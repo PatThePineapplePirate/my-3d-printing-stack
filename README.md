@@ -62,4 +62,7 @@ This project will cover the hardware, construction, specs, tuning, lessons, and 
 
 ## <a name="todo"></a>ToDo List
 
+- [ ] Future Printer Upgrades
+- [ ] Finish Writeup
+
 ## <a name="license"></a>License
