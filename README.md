@@ -39,6 +39,8 @@ This project will cover the hardware, construction, specs, tuning, lessons, and 
 
 ### <a name="goals-design"></a>Goals and Design
 
+<p align="center"><img alt="tower sketch overall" src="/images/Blueprint-Layout.jpg" height="600" width="auto"><img alt="tower sketch my platform" src="/images/Blueprint-Levels.jpg" height="600" width="auto"></p>
+
 ### <a name="purchased-hardware"></a>Purchased Hardware
 
 ### <a name="printed-parts"></a>3D Printed Parts
