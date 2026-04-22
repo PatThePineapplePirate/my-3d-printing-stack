@@ -31,9 +31,10 @@ This project will cover the hardware, construction, specs, tuning, lessons, and 
 ## <a name="my-printer"></a>3D Printer Choice and Assembly
 
 ### <a name="why-prusa"></a>Why the Prusa MK4
-
+As I am a strong advocate for open-source and right to repair initiatives, Prusa products feel like a natural fit for my 3D printer. 
 ### <a name="printer-assembly"></a>Printer Kit Assembly
 
+<p align="center"><a href="https://www.youtube.com/watch?v=ngvsAaQiqiA"><img src="/assets/images/timelapseThumbnail.jpg" width="600" height="auto" alt="PrusaMk4 kit assembly timelapse"></a></p>
 
 ## <a name="station"></a>The 3D Printing Station
 
