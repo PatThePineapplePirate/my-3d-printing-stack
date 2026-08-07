@@ -32,15 +32,16 @@ This project will cover the hardware, construction, specs, tuning, lessons, and 
 
 ### <a name="why-prusa"></a>Why the Prusa MK4
 As I am a strong advocate for open-source and right to repair initiatives, Prusa products feel like a natural fit for my 3D printer. 
+
 ### <a name="printer-assembly"></a>Printer Kit Assembly
 
-<p align="center"><a href="https://www.youtube.com/watch?v=ngvsAaQiqiA"><img src="/assets/images/timelapseThumbnail.jpg" width="600" height="auto" alt="PrusaMk4 kit assembly timelapse"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=ngvsAaQiqiA"><img src="/images/timelapseThumbnail.jpg" width="600" height="auto" alt="PrusaMk4 kit assembly timelapse"></a></p>
 
 ## <a name="station"></a>The 3D Printing Station
 
 ### <a name="goals-design"></a>Goals and Design
 
-<p align="center"><img alt="tower sketch overall" src="/images/Blueprint-Layout.jpg" height="600" width="auto"><img alt="tower sketch my platform" src="/images/Blueprint-Levels.jpg" height="600" width="auto"></p>
+<p align="center"><img alt="tower sketch overall" src="/images/Blueprint-Layout.jpg" height="400" width="auto"><img alt="tower sketch my platform" src="/images/Blueprint-Levels.jpg" height="400" width="auto"></p>
 
 ### <a name="purchased-hardware"></a>Purchased Hardware
 
