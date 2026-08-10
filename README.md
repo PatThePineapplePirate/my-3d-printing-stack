@@ -31,10 +31,10 @@ This project will cover the hardware, construction, specs, tuning, lessons, and 
 ## <a name="my-printer"></a>3D Printer Choice and Assembly
 
 ### <a name="why-prusa"></a>Why the Prusa MK4
-There are many inexpensive printers that are open-source and repairable, but Prusa also provides top tier customer support and a large active community. 
+There are many printers on the market that are open-source, repairable, and relatively inexpensive. I was drawn to Prusa printers for the reliable hardware, company ethos, customer support, and active community.  The MK4 was the newest model at the time and introduced the Nextruder hotend design, and a load cell sensor for perfect first layers, Input Shaping to Prusa printers, and more.  
 
 ### <a name="printer-assembly"></a>Printer Kit Assembly
-The Prusa MK4 Kit was purchased with the intention of learning as much as possible about how the printer works and how to repair it during the setup process. Provided assembly instructions on the website were extremely thorough, including community notes and tips for some of the more delicate steps. By clicking the image below you can watch the timelapse video of the careful 10-hour assembly:
+The Prusa MK4 Kit was purchased with the intention of learning as much as possible during the setup process about how the printer works and how to repair it. Provided assembly instructions on the website were extremely thorough, including community notes and tips for some of the more delicate steps. By clicking the image below you can watch the timelapse video of the careful assembly that spanned roughly 10-hours:
 <p align="center"><a href="https://www.youtube.com/watch?v=ngvsAaQiqiA"><img src="/images/timelapseThumbnail.jpg" width="600" height="auto" alt="PrusaMk4 kit assembly timelapse"></a></p>
 
 ## <a name="station"></a>The 3D Printing Station
