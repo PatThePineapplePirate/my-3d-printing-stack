@@ -41,7 +41,11 @@ The Prusa MK4 Kit was purchased with the intention of learning as much as possib
 
 ### <a name="goals-design"></a>Goals and Design
 
-<p align="center"><img alt="tower sketch overall" src="/images/Blueprint-Layout.jpg" height="500" width="auto"><img alt="tower sketch my platform" src="/images/Blueprint-Levels.jpg" height="500" width="auto"></p>
+<p align="center"><img alt="tower sketch overall" src="/images/Blueprint-Layout.jpg" height="500" width="auto"><img alt="tower sketch by platform" src="/images/Blueprint-Levels.jpg" height="500" width="auto"></p>
+<p align="center"> Design sketches for the 3D printer tower.</p>
+
+<p align="center"><img alt="completed tower build" src="/images/Full-Stack-Lights-On.jpg" height="600" width="auto"></p>
+<p align="center"> Complete build of the printing station.</p>
 
 ### <a name="purchased-hardware"></a>Purchased Hardware
 
